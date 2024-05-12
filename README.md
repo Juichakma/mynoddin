@@ -1,5 +1,4 @@
 # mynoddin
-volume control using hand gesture
 Volume Control using Hand Gesture
 
 For hand gesture recognition and volume control, this Python software makes use of the MediaPipe and PyCaw libraries, respectively. It enables webcam-based master volume management of the system by recognising hand movements.
